@@ -9,7 +9,7 @@ Build a binary classification model to predict song popularity based on various 
 ## Dataset
 
 - **Source**: [Spotify Tracks Dataset by Maharshi Pandya]
-www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+(www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 - **Size**: Over 114,000 tracks
 - **Target Variable**: `popularity` (binarized as Popular ≥ 70, else Unpopular)
 - **Features Used**: 
