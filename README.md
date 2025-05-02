@@ -33,7 +33,7 @@ Build a binary classification model to predict song popularity based on various 
 
 2. **Model Implementation**
    - Used `KNeighborsClassifier` from scikit-learn
-   - Tried different `k` values (from 3 to 15)
+   - Tried different `k` values (from 3 to 9)
    - Split data using train-test split
 
 3. **Evaluation**
